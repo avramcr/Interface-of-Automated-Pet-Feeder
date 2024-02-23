@@ -1,0 +1,4 @@
+⦁	Option FSM - Automatul cu stari finite(FSM) de optiuni este utilizat pentru a selecta una dintre urmatoarele optiuni:
+⦁	Pour food – procesorul toarna mancare timp de 5 secunde in bolul animalului (daca bolul este deja plin sau daca rezervorul de mancare este gol procesorul nu va face nimic)
+⦁	Interval – procesorul toarna o portie de mancare la un interval ales de utilizator.
+⦁	Stop Food – procesorul opreste optiunile de turnare a mancarii.
